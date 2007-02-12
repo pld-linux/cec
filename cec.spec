@@ -1,5 +1,5 @@
 Summary:	Coraid Ethernet Console client
-Summary(pl.UTF-8):   Klient Coraid Ethernet Console (konsoli ethernetowej Coraid)
+Summary(pl.UTF-8):	Klient Coraid Ethernet Console (konsoli ethernetowej Coraid)
 Name:		cec
 Version:	5
 Release:	1
