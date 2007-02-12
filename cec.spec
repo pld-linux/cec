@@ -1,5 +1,5 @@
 Summary:	Coraid Ethernet Console client
-Summary(pl):	Klient Coraid Ethernet Console (konsoli ethernetowej Coraid)
+Summary(pl.UTF-8):   Klient Coraid Ethernet Console (konsoli ethernetowej Coraid)
 Name:		cec
 Version:	5
 Release:	1
@@ -18,13 +18,13 @@ is not secure.
 cec is also the name of the client used to connect to cec servers. It
 will run on Linux, and BSD flavors supporting BPF.
 
-%description -l pl
-Coraid Ethernet Console (cec) to lekki protokó³ pozwalaj±cy na
-po³±czenie dwóch koñców przy u¿yciu surowych ramek ethernetowych.
+%description -l pl.UTF-8
+Coraid Ethernet Console (cec) to lekki protokÃ³Å‚ pozwalajÄ…cy na
+poÅ‚Ä…czenie dwÃ³ch koÅ„cÃ³w przy uÅ¼yciu surowych ramek ethernetowych.
 Komunikacja nie jest bezpieczna.
 
-cec to tak¿e nazwa klienta s³u¿±cego do ³±czenia z serwerami cec.
-Dzia³a pod Linuksem i odmianami BSD z obs³ug± BPF.
+cec to takÅ¼e nazwa klienta sÅ‚uÅ¼Ä…cego do Å‚Ä…czenia z serwerami cec.
+DziaÅ‚a pod Linuksem i odmianami BSD z obsÅ‚ugÄ… BPF.
 
 %prep
 %setup -q
