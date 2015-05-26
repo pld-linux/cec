@@ -1,12 +1,12 @@
 Summary:	Coraid Ethernet Console client
 Summary(pl.UTF-8):	Klient Coraid Ethernet Console (konsoli ethernetowej Coraid)
 Name:		cec
-Version:	11
+Version:	14
 Release:	1
 License:	GPL v2
 Group:		Networking
-Source0:	http://dl.sourceforge.net/aoetools/%{name}-%{version}.tgz
-# Source0-md5:	c900f9d5131beffb698a2fd703a59f43
+Source0:	http://downloads.sourceforge.net/aoetools/%{name}-%{version}.tgz
+# Source0-md5:	d7a467eb70f2a1dcc27ec77085e00527
 URL:		http://aoetools.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
